@@ -1,0 +1,8 @@
+mkdir git_practica
+cd git_practica
+git init
+echo "Hola vamos que se puede con git y github" >> README.txt
+git add README.txt
+git commit -m "First commit"
+
+
